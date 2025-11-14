@@ -41,3 +41,6 @@ python ChatBot.py
 📌 Observação
 
 O assistente não dá diagnósticos 100% conclusivos — ele aponta possíveis golpes e orienta o usuário a agir com cautela.
+
+
+![Chat_Demo](https://github.com/user-attachments/assets/161551d6-c46b-4ee6-a58a-a8d9ebfc78bf)
